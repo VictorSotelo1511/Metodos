@@ -1,4 +1,4 @@
-public class Proyecto3 {
+public class ValidadorEdades {
     void edades(int edad) {
         if(edad > 0) {
             if (edad < 18 && edad > 0) {
