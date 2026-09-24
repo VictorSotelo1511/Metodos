@@ -1,4 +1,4 @@
-public class Proyecto2 {
+public class VerificadorPrimos {
     
     boolean numPrimo(int numero) {
         if (numero <= 1) {
