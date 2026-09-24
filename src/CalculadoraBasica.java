@@ -1,4 +1,4 @@
-public class Proyecto1 {
+public class CalculadoraBasica {
 
     double suma(double a, double b) {
         return a + b;
