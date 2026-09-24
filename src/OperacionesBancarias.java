@@ -1,4 +1,4 @@
-public class Programa4 {
+public class OperacionesBancarias {
     
     int verificarSaldo(int saldo) {
         return saldo;
